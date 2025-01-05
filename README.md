@@ -5,9 +5,9 @@ Membuat project OOP untuk UAS
 
 # 1. Membuat class untuk menangani data 
 ![Cuplikan layar 2025-01-04 211357](https://github.com/user-attachments/assets/4aff6f4b-f104-45f2-8291-f337cbcd0e32)
-### Class ini bertanggung jawab untuk menyimpan data yang diinput oleh pengguna. Data disimpan dalam bentuk list of dictionaries.
+##### Class ini bertanggung jawab untuk menyimpan data yang diinput oleh pengguna. Data disimpan dalam bentuk list of dictionaries.
 ![Cuplikan layar 2025-01-04 211409](https://github.com/user-attachments/assets/24539be8-3c21-4775-9ee0-0d2686e2bbfc)
-### Metode ini digunakan untuk menambahkan data baru ke dalam list records. Data tersebut berupa dictionary dengan kunci 'Name', 'Age', dan 'Score'.
+##### Metode ini digunakan untuk menambahkan data baru ke dalam list records. Data tersebut berupa dictionary dengan kunci 'Name', 'Age', dan 'Score'.
 
 # 2. Membuat Class untuk proses validasi dan manipulasi data
 ![Cuplikan layar 2025-01-04 211423](https://github.com/user-attachments/assets/81cec629-b470-4594-afbc-ae2f20f8ffb4)
