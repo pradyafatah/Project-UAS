@@ -44,4 +44,6 @@ Blok if __name__ == "__main__":: Blok ini memastikan bahwa fungsi main() hanya a
 Secara keseluruhan, program ini mencakup proses validasi input, penyimpanan data, dan tampilan data dalam format tabel dengan penanganan error yang baik. Program ini cocok untuk pengelolaan data siswa dalam skala kecil.
 # 5. hasil
 ![image](https://github.com/user-attachments/assets/6b2ab3ce-0c5e-4466-a031-d99cf6140a3d)
+## Penjelasan
+Program meminta pengguna untuk menginputkan data berupa nama mahasiswa, umur, dan nilai (dalam rentang 0-100). Setelah data dimasukkan, program menampilkan pesan bahwa data berhasil ditambahkan, lalu memberikan opsi kepada pengguna untuk menambahkan data baru dengan mengetik "yes" atau menghentikan program dengan mengetik "no". Jika pengguna memilih "yes", program akan mengulangi proses input data. Program ini kemungkinan menggunakan struktur perulangan seperti while untuk memungkinkan pengulangan proses input hingga pengguna memutuskan berhenti. Data yang dimasukkan kemungkinan disimpan dalam struktur data seperti list atau dictionary untuk diolah lebih lanjut. Program ini cocok digunakan untuk sistem manajemen data sederhana dalam konteks tugas atau ujian pemrograman.
 
