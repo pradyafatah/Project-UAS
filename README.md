@@ -42,3 +42,6 @@ Menampilkan tabel data akhir: Setelah pengguna memutuskan untuk tidak menambahka
 Blok if __name__ == "__main__":: Blok ini memastikan bahwa fungsi main() hanya akan dieksekusi jika file Python dijalankan langsung, bukan diimpor sebagai modul oleh file lain.
 
 Secara keseluruhan, program ini mencakup proses validasi input, penyimpanan data, dan tampilan data dalam format tabel dengan penanganan error yang baik. Program ini cocok untuk pengelolaan data siswa dalam skala kecil.
+# 5. hasil
+![image](https://github.com/user-attachments/assets/6b2ab3ce-0c5e-4466-a031-d99cf6140a3d)
+
